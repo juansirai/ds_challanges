@@ -71,6 +71,9 @@ from sklearn.model_selection import GridSearchCV
 from sklearn.ensemble import AdaBoostClassifier
 from sklearn.model_selection import cross_val_score, StratifiedKFold
 from sklearn.tree import DecisionTreeClassifier
+
+# Para analisis de modelo
+import shap
 ```
 
 --------------------------------------------------------------------------
@@ -145,7 +148,7 @@ predecesor, de esta manera el algoritmo se adapta y logra obtener mejores result
 
 # Seleccion y Prediccion
 
-Para la predicción final, se eligió el modelo SVC optimizado con GridSearchCV, y con features estandarizadas.
+Para la predicción final, se eligió el modelo Random Forest Classifier.
 
 Las métricas finales fueron:
 
@@ -153,15 +156,15 @@ Las métricas finales fueron:
 
               precision    recall  f1-score   support
 
-           0       0.83      0.77      0.79        81
-           1       0.76      0.74      0.75        91
-           2       0.78      0.72      0.75        88
-           3       0.71      0.87      0.78        76
-           4       0.82      0.81      0.81        84
+           0       0.84      0.83      0.83        81
+           1       0.78      0.80      0.79        91
+           2       0.81      0.72      0.76        88
+           3       0.76      0.84      0.80        76
+           4       0.79      0.80      0.79        84
 
-    accuracy                           0.78       420
-   macro avg       0.78      0.78      0.78       420
-weighted avg       0.78      0.78      0.78       420
+    accuracy                           0.80       420
+   macro avg       0.80      0.80      0.80       420
+weighted avg       0.80      0.80      0.79       420
 
 ```
 

@@ -164,3 +164,11 @@ Las métricas finales fueron:
 weighted avg       0.78      0.78      0.78       420
 
 ```
+
+------------------------------------------------------
+
+# Aclaraciones
+
+Durante el entrenamiento de los distintos modelos, se probó una versión del dataset que no incluía la feature 3 (ya que poseía un grado ligeramente fuerte de 
+correlación con otras dos features y podría romper los principios de normalidad para los modelos lineales).<br>
+No obstante, la performance de dicho modelo decreció, con lo cual para la versión final se opta por incluirla.

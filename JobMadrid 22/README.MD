@@ -3,6 +3,12 @@
 
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81f1f131049961.563f0d5d52dde.jpg">
 
+## Index
+* [Loom Explanation](https://www.loom.com/share/acd1cd7db59244bfa16faf5d8ffc8c57)
+* [Jupyter Notebook](https://github.com/juansirai/ds_challanges/blob/master/JobMadrid%2022/Main.ipynb)
+* [Additional Functions](https://github.com/juansirai/ds_challanges/blob/master/JobMadrid%2022/preprocessing.ipynb)
+* [Dashboard](https://github.com/juansirai/ds_challanges/blob/master/JobMadrid%2022/Dashboard.pbix)
+
 ------------------------------
 ## Business Analytics
 -------------------------------------

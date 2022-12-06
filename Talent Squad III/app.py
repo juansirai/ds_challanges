@@ -2,6 +2,12 @@
 # Libraries
 import pandas as pd
 import os
+from sklearn.metrics import confusion_matrix,f1_score
+from sklearn.model_selection import train_test_split
+from sklearn.tree import DecisionTreeClassifier
+from imblearn.over_sampling import SMOTE
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.ensemble import GradientBoostingClassifier
 
 def load_dataset(filename):
     """
@@ -17,6 +23,7 @@ def load_dataset(filename):
         print('File does not exists')
         return None
 
+
 def train_data(filename):
     df = load_dataset('train.csv')
 
@@ -27,8 +34,9 @@ def train_data(filename):
     X = df.drop(columns=['Unnamed: 0','parental level of education'])
     y = df['parental level of education']
 
-    # create dummies for categorical variables
-    X_dummies = pd.get_dummies(X,drop_first=True)
-    print(X_dummies.columns)
+
+
+
+
 
 train_data('train.csv')

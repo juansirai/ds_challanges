@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9d684abc-fb66-42fa-870d-f3b2a2c859b4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Bayern/Drugs Revenue Analysis/.ipynb_checkpoints/main-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bayern/Drugs Revenue Analysis/data/.ipynb_checkpoints/murcia_pharmaceutics-checkpoint.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bayern/Drugs Revenue Analysis/data/DrugUtilization2021_revisedsep2022.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bayern/Drugs Revenue Analysis/data/murcia_pharmaceutics.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bayern/Drugs Revenue Analysis/data/supply_data/.ipynb_checkpoints/supply_chain_2012-checkpoint.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bayern/Drugs Revenue Analysis/data/supply_data/cfs-2012-pum-file-users-guide-app-a-jun2015.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bayern/Drugs Revenue Analysis/data/supply_data/state_code_to_name.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bayern/Drugs Revenue Analysis/data/supply_data/supply_chain_2012.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bayern/Drugs Revenue Analysis/main.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JobMadrid 22/Dashboard.pbix" beforeDir="false" afterPath="$PROJECT_DIR$/JobMadrid 22/Dashboard.pbix" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JobMadrid 22/Main.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/JobMadrid 22/Main.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Talent Squad III/EDA.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Talent Squad III/EDA.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2QkUVSXsB4RaB33JX8WM9Si62tg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+</project>
